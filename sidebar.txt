@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[uk:home|Door43 (uk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-uk|d43-uk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-uk/archive/master.zip|d43-uk.zip]]
+
+**Recent Changes**
+{{changes>ns = uk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/uk|Ethnologue data]]
+
